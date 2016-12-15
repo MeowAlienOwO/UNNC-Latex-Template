@@ -1,2 +1,8 @@
 # UNNC-Latex-Template
-Latex Templates for UNNC cw/dissertation/essay/report...
+
+LaTeX Template repository for UNNCers.
+
+Feel free to contribute!
+
+
+
