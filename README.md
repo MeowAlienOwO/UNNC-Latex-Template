@@ -1,8 +1,5 @@
 # UNNC-Latex-Template
 
-LaTeX Template repository for UNNCers.
+This repository want to collects useful LaTeX templates for UNNC. It will include reports, dissertations, essays, presentations.. Not only for CS students, contributions from all majors are welcomed!
 
-Feel free to contribute!
-
-
-
+为了给LaTeX使用者提供方便，这个仓库用于存放在UNNC有用的LaTeX模板，包括但不限于report, essay, dissertation, presentation等等。本仓库欢迎包括CS在内的所有专业贡献分支与代码！
