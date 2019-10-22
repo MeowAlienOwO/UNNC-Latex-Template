@@ -1,3 +1,7 @@
+# DUPLICATED
+
+PLZ use https://github.com/imyueli/NottinghamThesisTemplate instead
+
 # UNNC-Latex-Template
 
 This repository want to collects useful LaTeX templates for UNNC. It will include reports, dissertations, essays, presentations.. Not only for CS students, contributions from all majors are welcomed!
